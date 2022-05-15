@@ -1,9 +1,17 @@
 import './../public/css/style.css'
+import './../public/css/animate.min.css'
 import '../styles/globals.css'
+import { useEffect } from 'react'
 import type { AppProps } from 'next/app'
 import Head from 'next/head'
 
 function MyApp({ Component, pageProps }: AppProps) {
+  useEffect(() => {
+    if(typeof window !== 'undefined'){
+      (window as any).WOW = require('wowjs');
+      new (window as any).WOW.WOW().init();
+    }
+  });
   return (
     <>
       <Head>
