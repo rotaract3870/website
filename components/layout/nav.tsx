@@ -8,26 +8,19 @@ export default function Nav() {
                 <li className="active">
                     <Link href="/"><a>Home</a></Link>
                 </li>
-                <li><Link href="/about"><a>About</a></Link></li>
-                <li><Link href="/cause-details"><a>Causes</a></Link></li>
-                <li className="menu-item-has-children"><Link href="#"><a>Pages</a></Link>
+                <li><Link href="#"><a>Monthly Newsletter</a></Link></li>
+                <li><Link href="#"><a>Events</a></Link></li>
+                <li className="menu-item-has-children"><Link href="#"><a>Our Leaders</a></Link>
                     <ul className="sub-menu">
-                        <li><Link href="/event"><a>Events</a></Link></li>
-                        <li><Link href="/event-details"><a>Events Details</a></Link></li>
-                        <li><Link href="/volunteer"><a>Volunteer</a></Link></li>
-                        <li><Link href="/volunteer-details"><a>Volunteer Details</a></Link></li>
-                        <li><Link href="/donation"><a>Donation</a></Link></li>
-                        <li><Link href="/mission"><a>Mission</a></Link></li>
-                        <li><Link href="/faq"><a>Faq</a></Link></li>
+                        <li><Link href="#"><a>District Rotaract Representative</a></Link></li>
+                        <li><Link href="#"><a>District Governor</a></Link></li>
+                        <li><Link href="#"><a>District Officers</a></Link></li>
+                        <li><Link href="#"><a>Club Presidents</a></Link></li>
+                        <li><Link href="#"><a>Council of PDRRs</a></Link></li>
                     </ul>
                 </li>
-                <li className="menu-item-has-children"><Link href="/blog"><a>News</a></Link>
-                    <ul className="sub-menu">
-                        <li><Link href="/blog"><a>News</a></Link></li>
-                        <li><Link href="/blog-details"><a>News Details</a></Link></li>
-                    </ul>
-                </li>
-                <li><Link href="/contact"><a>Contact</a></Link></li>
+                <li><Link href="#"><a>Club Directory</a></Link></li>
+                <li><Link href="#"><a>Resources</a></Link></li>
             </ul>
         </nav>
     )
