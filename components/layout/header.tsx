@@ -1,6 +1,7 @@
 import React from 'react'
 import Nav from './nav'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Header() {
     return (
@@ -10,7 +11,7 @@ export default function Header() {
                     <div className="row align-items-center">
                         <div className="col-xxl-5 col-xl-5 col-lg-3 col-md-6 col-6">
                             <div className="logo">
-                                <Link href="/"><a><img src="/img/logo/logo.png" alt="" /></a></Link>
+                                <Link href="/"><a><Image src="/img/logo/logo.png" alt="logo" /></a></Link>
                             </div>
                         </div>
                         <div className="col-xxl-7 col-xl-7 col-lg-9 d-none d-lg-block">
