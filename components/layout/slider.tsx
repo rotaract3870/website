@@ -34,29 +34,29 @@ export default function Slider() {
               crossFade: true,
             }}
             pagination={{ clickable: true }}
-            // navigation={{ clickable: true }}
-            // scrollbar={{ draggable: true }}
-            // onSwiper={(swiper) => console.log(swiper)}
-            // onSlideChange={() => console.log('slide change')}
+          // navigation={{ clickable: true }}
+          // scrollbar={{ draggable: true }}
+          // onSwiper={(swiper) => console.log(swiper)}
+          // onSlideChange={() => console.log('slide change')}
           >
             <SwiperSlide className="hero_wrapper hero_height p-rel d-flex align-items-center justify-content-center">
               <div
                 className="slide-bg"
-                style={{ background: "url(/img/slider/hero_bg2_3.jpg)" }}
+                style={{ background: "url(/img/slider/hero_bg2_1.jpg)" }}
               ></div>
-              <div
+              {/* <div
                 className="img_center"
                 data-animation="fadeInUp"
                 data-delay="0.9s"
               >
                 <img src="/img/slider/hero_shape.png" alt="img" />
-              </div>
+              </div> */}
               <div className="hero_single p-rel">
                 <div className="container">
                   <div className="row">
                     <div className="col-xxl-12 text-center">
                       <div className="hero_content">
-                        <div
+                        {/* <div
                           className="hero_meta"
                           data-animation="fadeInUp"
                           data-delay="0.3s"
@@ -70,17 +70,16 @@ export default function Slider() {
                           <Link href="/cause">
                             <a>Medical</a>
                           </Link>
-                        </div>
+                        </div> */}
                         <h3
                           className="hero_title"
                           data-animation="fadeInUp"
                           data-delay="0.5s"
                         >
-                          Redusing Poverty
+                          Protecting the Environment
                         </h3>
                         <p data-animation="fadeInUp" data-delay="0.7s">
-                          Organization Set Up to Provide Help and Raise <br />{" "}
-                          Money for Those in Need.
+                          We are committed to supporting activities that strengthen the conservation and protection of natural resources, advance ecological sustainability, and foster harmony between communities and the environment.
                         </p>
                         <div
                           className="hero_buttons mt-35"
@@ -107,21 +106,21 @@ export default function Slider() {
             <SwiperSlide className="hero_wrapper hero_height p-rel d-flex align-items-center justify-content-center">
               <div
                 className="slide-bg"
-                style={{ background: "url(/img/slider/hero_bg2_4.jpg)" }}
+                style={{ background: "url(/img/slider/hero_bg2_2.jpg)" }}
               ></div>
-              <div
+              {/* <div
                 className="img_center wow fadeInUp"
                 data-animation="fadeInUp"
                 data-delay="0.9s"
               >
                 <img src="/img/slider/hero_shape.png" alt="img" />
-              </div>
+              </div> */}
               <div className="hero_single p-rel">
                 <div className="container">
                   <div className="row">
                     <div className="col-xxl-12 text-center">
                       <div className="hero_content">
-                        <div
+                        {/* <div
                           className="hero_meta wow fadeInUp"
                           data-animation="fadeInUp"
                           data-delay="0.3s"
@@ -135,21 +134,20 @@ export default function Slider() {
                           <Link href="/cause">
                             <a>Medical</a>
                           </Link>
-                        </div>
+                        </div> */}
                         <h3
                           className="hero_title wow fadeInUp"
                           data-animation="fadeInUp"
                           data-delay="0.5s"
                         >
-                          Sharing Prosperity
+                          Promoting Peace
                         </h3>
                         <p
                           className="wow fadeInUp"
                           data-animation="fadeInUp"
                           data-delay="0.7s"
                         >
-                          Organization Set Up to Provide Help and Raise <br />{" "}
-                          Money for Those in Need.
+                          As a humanitarian organization, peace is a cornerstone of our mission. We believe when people work to create peace in their communities, that change can have a global effect.
                         </p>
                         <div
                           className="hero_buttons mt-35 wow fadeInUp"
@@ -176,21 +174,21 @@ export default function Slider() {
             <SwiperSlide className="hero_wrapper hero_height p-rel d-flex align-items-center justify-content-center">
               <div
                 className="slide-bg"
-                style={{ background: "url(/img/slider/hero_bg2_1.jpg)" }}
+                style={{ background: "url(/img/slider/hero_bg2_3.jpg)" }}
               ></div>
-              <div
+              {/* <div
                 className="img_center wow fadeInUp"
                 data-animation="fadeInUp"
                 data-delay="0.9s"
               >
                 <img src="/img/slider/hero_shape.png" alt="img" />
-              </div>
+              </div> */}
               <div className="hero_single p-rel">
                 <div className="container">
                   <div className="row">
                     <div className="col-xxl-12 text-center">
                       <div className="hero_content">
-                        <div
+                        {/* <div
                           className="hero_meta wow fadeInUp"
                           data-animation="fadeInUp"
                           data-delay="0.3s"
@@ -204,21 +202,20 @@ export default function Slider() {
                           <Link href="/cause">
                             <a>Medical</a>
                           </Link>
-                        </div>
+                        </div> */}
                         <h3
                           className="hero_title wow fadeInUp"
                           data-animation="fadeInUp"
                           data-delay="0.5s"
                         >
-                          Change a Child&#39;s Life
+                          Fellowship Through Service
                         </h3>
                         <p
                           className="wow fadeInUp"
                           data-animation="fadeInUp"
                           data-delay="0.7s"
                         >
-                          Organization Set Up to Provide Help and Raise <br />{" "}
-                          Money for Those in Need.
+                          Forge new relationships with people by serving the community. Service becomes the avenue as to which people are able to meet others who act and think like them.
                         </p>
                         <div
                           className="hero_buttons mt-35 wow fadeInUp"
