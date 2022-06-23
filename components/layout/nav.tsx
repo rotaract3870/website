@@ -19,7 +19,7 @@ export default function Nav() {
                         <li><Link href="#"><a>Council of PDRRs</a></Link></li>
                     </ul>
                 </li>
-                <li><Link href="#"><a>Club Directory</a></Link></li>
+                <li><Link href="/club-directory"><a>Club Directory</a></Link></li>
                 <li><Link href="#"><a>Resources</a></Link></li>
             </ul>
         </nav>
