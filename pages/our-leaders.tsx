@@ -1,7 +1,7 @@
 import Header from "../components/layout/header"
 import Breadcrumb from '../components/layout/breadcrumb'
 import Footer2 from '../components/layout/footer2'
-import EmptyArea from "../components/elements/shared/empty_area"
+import RepresentativeArea from "../components/elements/our_leaders/representative_area"
 
 export default function OurLeaders() {
   return (
@@ -9,7 +9,7 @@ export default function OurLeaders() {
       <Header />
       <main>
         <Breadcrumb title="Our Leaders" backgroundImage="url(/img/bg/breadcrum_bg_2.jpg)" />
-        <EmptyArea />
+        <RepresentativeArea />
         <Footer2 />
       </main>
     </>
