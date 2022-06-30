@@ -8,7 +8,7 @@ type ClubCardProps = {
 
 export default function ClubCard({ club, president }: ClubCardProps) {
     return (
-        <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
+        <div key={club} className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
             <div className="single_team mb-30" style={{ minHeight: 200 }}>
                 <h5 className="member_name"><Link href="#"><a>{club}</a></Link></h5>
                 <span className="designation">{president}</span>
