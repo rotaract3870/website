@@ -17,7 +17,7 @@ export default function ClubArea() {
                         return (
                             <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
                                 <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/volunteer-details"><a>{club.club_name}</a></Link></h5>
+                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
                                     <span className="designation">{club.president_name}</span>
                                     <div className="member_social">
                                         <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
@@ -41,7 +41,7 @@ export default function ClubArea() {
                         return (
                             <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
                                 <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/volunteer-details"><a>{club.club_name}</a></Link></h5>
+                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
                                     <span className="designation">{club.president_name}</span>
                                     <div className="member_social">
                                         <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
@@ -65,7 +65,7 @@ export default function ClubArea() {
                         return (
                             <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
                                 <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/volunteer-details"><a>{club.club_name}</a></Link></h5>
+                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
                                     <span className="designation">{club.president_name}</span>
                                     <div className="member_social">
                                         <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
@@ -89,7 +89,7 @@ export default function ClubArea() {
                         return (
                             <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
                                 <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/volunteer-details"><a>{club.club_name}</a></Link></h5>
+                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
                                     <span className="designation">{club.president_name}</span>
                                     <div className="member_social">
                                         <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
