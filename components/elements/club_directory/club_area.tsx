@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
+import ClubCard from './club_card';
 import directoryRepo from '../../../data/club_directory.json';
 
 export default function ClubArea() {
@@ -14,20 +15,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "1").map((club) => {
-                        return (
-                            <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
-                                <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
-                                    <span className="designation">{club.president_name}</span>
-                                    <div className="member_social">
-                                        <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
-                                        <Link href="#"><a className="twitter"><i className="fab fa-twitter"></i></a></Link>
-                                        <Link href="#"><a className="behance"><i className="fab fa-behance"></i></a></Link>
-                                        <Link href="#"><a className="youtube"><i className="fab fa-youtube"></i></a></Link>
-                                    </div>
-                                </div>
-                            </div>
-                        )
+                        return <ClubCard club={club.club_name} president={club.president_name} />
                     })}
                 </div>
                 <div className="row">
@@ -38,20 +26,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "2").map((club) => {
-                        return (
-                            <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
-                                <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
-                                    <span className="designation">{club.president_name}</span>
-                                    <div className="member_social">
-                                        <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
-                                        <Link href="#"><a className="twitter"><i className="fab fa-twitter"></i></a></Link>
-                                        <Link href="#"><a className="behance"><i className="fab fa-behance"></i></a></Link>
-                                        <Link href="#"><a className="youtube"><i className="fab fa-youtube"></i></a></Link>
-                                    </div>
-                                </div>
-                            </div>
-                        )
+                        return <ClubCard club={club.club_name} president={club.president_name} />
                     })}
                 </div>
                 <div className="row">
@@ -62,20 +37,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "3").map((club) => {
-                        return (
-                            <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
-                                <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
-                                    <span className="designation">{club.president_name}</span>
-                                    <div className="member_social">
-                                        <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
-                                        <Link href="#"><a className="twitter"><i className="fab fa-twitter"></i></a></Link>
-                                        <Link href="#"><a className="behance"><i className="fab fa-behance"></i></a></Link>
-                                        <Link href="#"><a className="youtube"><i className="fab fa-youtube"></i></a></Link>
-                                    </div>
-                                </div>
-                            </div>
-                        )
+                        return <ClubCard club={club.club_name} president={club.president_name} />
                     })}
                 </div>
                 <div className="row">
@@ -86,20 +48,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "4").map((club) => {
-                        return (
-                            <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
-                                <div className="single_team mb-30">
-                                    <h5 className="member_name"><Link href="/"><a>{club.club_name}</a></Link></h5>
-                                    <span className="designation">{club.president_name}</span>
-                                    <div className="member_social">
-                                        <Link href="#"><a className="facebook"><i className="fab fa-facebook-f"></i></a></Link>
-                                        <Link href="#"><a className="twitter"><i className="fab fa-twitter"></i></a></Link>
-                                        <Link href="#"><a className="behance"><i className="fab fa-behance"></i></a></Link>
-                                        <Link href="#"><a className="youtube"><i className="fab fa-youtube"></i></a></Link>
-                                    </div>
-                                </div>
-                            </div>
-                        )
+                        return <ClubCard club={club.club_name} president={club.president_name} />
                     })}
                 </div>
             </div>

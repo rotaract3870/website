@@ -22,7 +22,7 @@
         },
         {
             "club_name": "RAC Kalayaan CDO",
-            "president_name": "",
+            "president_name": "-",
             "zone": "1"
         },
         {
@@ -57,7 +57,7 @@
         },
         {
             "club_name": "RAC Iligan East",
-            "president_name": "",
+            "president_name": "-",
             "zone": "2"
         },
         {
@@ -87,12 +87,12 @@
         },
         {
             "club_name": "RAC ND-RVMCC",
-            "president_name": "",
+            "president_name": "-",
             "zone": "3"
         },
         {
             "club_name": "RAC Metro Kidapawan",
-            "president_name": "",
+            "president_name": "-",
             "zone": "3"
         },
         {
@@ -142,7 +142,7 @@
         },
         {
             "club_name": "RAC Malaybalay",
-            "president_name": "",
+            "president_name": "-",
             "zone": "4"
         }
     ]
