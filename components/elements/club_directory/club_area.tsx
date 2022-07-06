@@ -15,7 +15,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "1").map((club) => {
-                        return <ClubCard club={club.club_name} president={club.president_name} />
+                        return <ClubCard key={club.club_name} club={club.club_name} president={club.president_name} />
                     })}
                 </div>
                 <div className="row">
@@ -26,7 +26,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "2").map((club) => {
-                        return <ClubCard club={club.club_name} president={club.president_name} />
+                        return <ClubCard key={club.club_name} club={club.club_name} president={club.president_name} />
                     })}
                 </div>
                 <div className="row">
@@ -37,7 +37,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "3").map((club) => {
-                        return <ClubCard club={club.club_name} president={club.president_name} />
+                        return <ClubCard key={club.club_name} club={club.club_name} president={club.president_name} />
                     })}
                 </div>
                 <div className="row">
@@ -48,7 +48,7 @@ export default function ClubArea() {
                         </div>
                     </div>
                     {directoryRepo.data.filter((club) => club.zone === "4").map((club) => {
-                        return <ClubCard club={club.club_name} president={club.president_name} />
+                        return <ClubCard key={club.club_name} club={club.club_name} president={club.president_name} />
                     })}
                 </div>
             </div>

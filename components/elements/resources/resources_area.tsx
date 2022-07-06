@@ -17,7 +17,7 @@ export default function ResourcesArea() {
                 <div className="row">
                     {resourcesRepo.data.map((resource) => {
                         return (
-                            <div className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
+                            <div key={resource.name} className="col-xxl-3 col-xl-4 col-lg-4 col-sm-6 text-center">
                                 <Link href={resource.link}>
                                     <a className="g_btn fca_btn1 to_right2 p-40 rad-50">{resource.name}<span></span></a>
                                 </Link>
