@@ -18,7 +18,7 @@ export default function ResourcesArea() {
                 </div>
                 {resourcesRepo.category_data.map((category) => {
                     return (
-                        <div className="row mb-80">
+                        <div key={category.id} className="row mb-80">
                             <div className="col-xxl-12">
                                 <div className="section_title">
                                     <h4 className="n_title">{category.name}</h4>
@@ -26,7 +26,7 @@ export default function ResourcesArea() {
                             </div>
                             {resourcesRepo.data.filter((resource) => resource.category_id === category.id).map((resource) => {
                                 return (
-                                    <ResourceLink name={resource.name} link={resource.link} />
+                                    <ResourceLink key={resource.name} name={resource.name} link={resource.link} />
                                 )
                             })}
                         </div>
