@@ -21,6 +21,7 @@ export default function Nav() {
                 </li>
                 <li><Link href="/club-directory"><a>Club Directory</a></Link></li>
                 <li><Link href="/resources"><a>Resources</a></Link></li>
+                <li><Link href="/about-us"><a>About Us</a></Link></li>
             </ul>
         </nav>
     )
