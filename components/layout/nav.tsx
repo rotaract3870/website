@@ -8,7 +8,7 @@ export default function Nav() {
                 <li className="active">
                     <Link href="/"><a>Home</a></Link>
                 </li>
-                <li><Link href="/monthly-newsletter"><a>Monthly Newsletter</a></Link></li>
+                <li><Link href="/monthly-newsletter"><a>Sindaw</a></Link></li>
                 <li><Link href="/events"><a>Events</a></Link></li>
                 <li className="menu-item-has-children"><Link href="/our-leaders"><a>Our Leaders</a></Link>
                     <ul className="sub-menu">
