@@ -3,6 +3,7 @@ import Slider from "../components/layout/slider"
 import About from "../components/layout/about"
 import Footer from "../components/layout/footer"
 import CausesArea from "../components/elements/index/causes_area"
+import CensusArea from "../components/elements/index/census_area"
 
 export default function Index() {
   return (
@@ -13,6 +14,7 @@ export default function Index() {
         <About />
         <CausesArea />
         {/* <Newsfeed /> */}
+        <CensusArea />
       </main>
       <Footer />
     </>
