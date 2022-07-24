@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "src": "img/aof/AOF_disease_color_bottom_title_RGB_EN.png",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "src": "img/aof/AOF_economic_color_bottom_title_RGB_EN.png",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "src": "img/aof/AOF_education_color_bottom_title_RGB_EN.png",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "src": "img/aof/AOF_environment_color_bottom_title_RGB_EN.png",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "src": "img/aof/AOF_maternal_color_bottom_title_RGB_EN.png",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "src": "img/aof/AOF_peace_color_bottom_tile_RGB_EN.png",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "src": "img/aof/AOF_water_color_bottom_title_RGB_EN.png",
+            "description": ""
+        }
+    ]
+}
