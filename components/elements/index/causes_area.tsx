@@ -10,7 +10,7 @@ export default function CausesArea() {
                 <div className="row">
                     <div className="col-xxl-12">
                         <div className="section_title text-center mb-60">
-                            <span className="sub_title sub_title_2">Rotary's Areas of Focus</span>
+                            <span className="sub_title sub_title_2">Rotary&apos;s Areas of Focus</span>
                             <h3 className="title title_2">Causes</h3>
                         </div>
                     </div>
