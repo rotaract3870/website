@@ -56,68 +56,398 @@
     "data": [
         {
             "name": "Rotaract Handbook",
-            "category_id": 1,
-            "link": "https://drive.google.com/file/d/1aU5ZUlNVniPNjR-8zfequqHdMGJ9quTi/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1aU5ZUlNVniPNjR-8zfequqHdMGJ9quTi/view?usp=sharing",
+            "category_id": 1
+        },
+        {
+            "name": "Standard Rotaract Club Constitution",
+            "link": "https://drive.google.com/file/d/1ESjNbpEhnDXWEH_lxk1bl-0u5NGb3-LE/view?usp=sharing",
+            "category_id": 1
+        },
+        {
+            "name": "Recommended Rotaract Club Bylaws",
+            "link": "https://docs.google.com/document/d/1lHFN8qO4bfPM9g1IB2MEywfEZMBsl5Fl/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 1
+        },
+        {
+            "name": "Policy Related to Rotaract",
+            "link": "https://drive.google.com/file/d/1xJCG09K01w7o5Bnpj_Esj_5EZdINm5f3/view?usp=sharing",
+            "category_id": 1
+        },
+        {
+            "name": "How to Start A Rotaract Club",
+            "link": "https://drive.google.com/file/d/1ssOcY_cu4vcinFglacie5VYFYRqHXLDR/view?usp=sharing",
+            "category_id": 1
+        },
+        {
+            "name": "Rotaract Club Certification Form",
+            "link": "https://drive.google.com/file/d/1235D4xNXahJPbz0sMAmul8vIpelp8J67/view?usp=sharing",
+            "category_id": 1
+        },
+        {
+            "name": "Payment Guide for Payment of Rotaract Chartering Fee",
+            "link": "https://drive.google.com/file/d/17lthujAO3-kle473JQpCe5wlNfZIuzfz/view?usp=sharing",
+            "category_id": 1
+        },
+        {
+            "name": "Standard Constitution",
+            "link": "https://drive.google.com/file/d/1jPL9161Fxdc8Hf7otx_ygLCCzy8LHwy9/view?usp=sharing",
+            "category_id": 1
         },
         {
             "name": "DRR's Visit Requirements and Guidelines",
-            "category_id": 2,
-            "link": "#"
+            "link": "#",
+            "category_id": 2
+        },
+        {
+            "name": "DRR's Visit PPT Template",
+            "link": "#",
+            "category_id": 2
+        },
+        {
+            "name": "5-Year Strategic Plan Template",
+            "link": "#",
+            "category_id": 2
+        },
+        {
+            "name": "Action Plan Flyer",
+            "link": "#",
+            "category_id": 2
+        },
+        {
+            "name": "Club Health Check",
+            "link": "#",
+            "category_id": 2
+        },
+        {
+            "name": "Strategic Planning Guide",
+            "link": "#",
+            "category_id": 2
+        },
+        {
+            "name": "Drr's Visit Guidelines & Protocol",
+            "link": "#",
+            "category_id": 2
         },
         {
             "name": "PPT Template",
-            "category_id": 3,
-            "link": "#"
+            "link": "#",
+            "category_id": 3
+        },
+        {
+            "name": "Letterhead Template",
+            "link": "https://drive.google.com/drive/folders/13pbsB_sRI9Ky9CKmtC1h8s0GPXhlBthY?usp=sharing",
+            "category_id": 3
+        },
+        {
+            "name": "DRR's Photos",
+            "link": "#",
+            "category_id": 3
         },
         {
             "name": "Rotary Basics",
-            "category_id": 4,
-            "link": "https://drive.google.com/file/d/158T6vKmPpBUX0xNldWG_hg5xAI4XBjWk/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/158T6vKmPpBUX0xNldWG_hg5xAI4XBjWk/view?usp=sharing",
+            "category_id": 4
         },
         {
             "name": "Rotary Area's of Focus Visual Guidelines",
-            "category_id": 5,
-            "link": "https://drive.google.com/file/d/1ZIv5YWigxaYbBR2lNHG9H_AbRYq2RcgI/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1ZIv5YWigxaYbBR2lNHG9H_AbRYq2RcgI/view?usp=sharing",
+            "category_id": 5
+        },
+        {
+            "name": "Rotary Area's of Focus Logos",
+            "link": "https://drive.google.com/file/d/1JdiDbuk_uSoud5IdOqdJ2lseJPGQxW1C/view?usp=sharing",
+            "category_id": 5
+        },
+        {
+            "name": "World Polio Day Toolkit",
+            "link": "https://drive.google.com/file/d/1UfUH5umsOiWGFWAFXGhS5zhrG4nXWW8p/view?usp=sharing",
+            "category_id": 5
+        },
+        {
+            "name": "End Polio Now Logo Visual Guidelines",
+            "link": "https://drive.google.com/file/d/1I9Zw_oa5wC0TINbybusxVPBLHkFY5z1O/view?usp=sharing",
+            "category_id": 5
+        },
+        {
+            "name": "End Polio Now Logos",
+            "link": "https://drive.google.com/file/d/1dDNxQxRy6MDCgF_nr2Kxwgb3qte-KMjN/view?usp=sharing",
+            "category_id": 5
+        },
+        {
+            "name": "People of Action Campaign Guidelines",
+            "link": "https://drive.google.com/file/d/1CAGKF8GG8D1AQSQzovvMoE-jZTsWL0g7/view?usp=sharing",
+            "category_id": 5
         },
         {
             "name": "How to Update Rotaract Information",
-            "category_id": 6,
-            "link": "https://drive.google.com/file/d/1Cjd40fsRzfRoBdgZ-k-nntdlkxp_w9zW/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1Cjd40fsRzfRoBdgZ-k-nntdlkxp_w9zW/view?usp=sharing",
+            "category_id": 6
+        },
+        {
+            "name": "How to Create A Rotary Account",
+            "link": "https://drive.google.com/file/d/1oHPmk6zuJGV6aHYdDJUAR7rUij7Tg6mT/view?usp=sharing",
+            "category_id": 6
+        },
+        {
+            "name": "How to Add a project to Rotary Showcase",
+            "link": "https://drive.google.com/file/d/1sErJgdq3i_ZfKwwdU8w8wAsgfkQOaCr4/view?usp=sharing",
+            "category_id": 6
+        },
+        {
+            "name": "How to Update Club Information",
+            "link": "https://drive.google.com/file/d/1am1Vgn08qjsUKvjEsTw22KnZa0pf_Yn_/view?usp=sharing",
+            "category_id": 6
         },
         {
             "name": "Guidelines For Submission",
-            "category_id": 7,
-            "link": "https://drive.google.com/file/d/1p2QbkVpbSnvTTzqFy0ZphLRmuLk2ouLl/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1p2QbkVpbSnvTTzqFy0ZphLRmuLk2ouLl/view?usp=sharing",
+            "category_id": 7
+        },
+        {
+            "name": "Professional Service Report Template",
+            "link": "#",
+            "category_id": 7
+        },
+        {
+            "name": "International Service Report Template",
+            "link": "https://docs.google.com/document/d/11_4Qz8N89gocMvU_5YZifTfz3M2a5AmN/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "Finance Service Report Template",
+            "link": "https://docs.google.com/document/d/1v-KOvzUv1F9u-GbJtuhczjQiru2FQMp9/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "Public Image Report Template",
+            "link": "#",
+            "category_id": 7
+        },
+        {
+            "name": "Club Service Report Template",
+            "link": "https://docs.google.com/document/d/1hQuaWN_xef8nuz6M31yn333baZr4gVF5/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "Community Service Report Template",
+            "link": "https://docs.google.com/document/d/1H1ymKaDlefkAccCgPlR6WBa4RmsIDyXr/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "Foundation Report Template",
+            "link": "https://docs.google.com/document/d/1OUwu7vq94savks2FaJVrx-D4oXX6yJce/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "District Event Hosting Template",
+            "link": "https://docs.google.com/document/d/11ae_WHt_pHZ_jbU0T6H14vyrq60wB4fS/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "Fellowship Summary Report Template",
+            "link": "https://docs.google.com/document/d/1lRqr_l3zV-Q6Tm24_2Js-E1Bd4KS3Gab/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "Summary of Meeting Report Template",
+            "link": "#",
+            "category_id": 7
+        },
+        {
+            "name": "Minutes of Meeting Template",
+            "link": "#",
+            "category_id": 7
+        },
+        {
+            "name": "Project Report Data Base",
+            "link": "https://docs.google.com/spreadsheets/d/1Q6InJUeYCrsy-P5kLHRuRTGLbRcT4zxo/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
+        },
+        {
+            "name": "Library of Comuunity Service",
+            "link": "https://drive.google.com/file/d/14DJ41KbYk9H8uTPGfmuYubpq6LloR5Ri/view?usp=sharing",
+            "category_id": 7
+        },
+        {
+            "name": "Deciphering Professional Service",
+            "link": "https://drive.google.com/file/d/1ThDUhs-riJn_eKenozjJdP8coSNJoS7i/view?usp=sharing",
+            "category_id": 7
+        },
+        {
+            "name": "Monthly Meeting Report",
+            "link": "https://docs.google.com/document/d/154v6nlMoVvq22qOcTOyg4X7uBn2hPlsj/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 7
         },
         {
             "name": "Membership-Baseline-Data-Collection-Report-1-3",
-            "category_id": 8,
-            "link": "https://docs.google.com/spreadsheets/d/1smjpH0BQrpxk16VrIPmiQbvljE3xw0sc/edit#gid=552485420"
+            "link": "https://docs.google.com/spreadsheets/d/1smjpH0BQrpxk16VrIPmiQbvljE3xw0sc/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 8
+        },
+        {
+            "name": "Membership-Monthly-Update-Report-4-5",
+            "link": "https://docs.google.com/spreadsheets/d/1k2xBbos93CGYRQmFH1diTg2KVn6estBI/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 8
+        },
+        {
+            "name": "Member_satisfaction_survey",
+            "link": "https://drive.google.com/file/d/19_fEjVKQUCHyV4HGkVlQ1uOlubsIf8lr/view?usp=sharing",
+            "category_id": 8
         },
         {
             "name": "Diversifying Your Club",
-            "category_id": 9,
-            "link": "https://drive.google.com/file/d/14dlcP-ykC_8y4Ufmn9_WCyGXzWTdU86z/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/14dlcP-ykC_8y4Ufmn9_WCyGXzWTdU86z/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Creating A Positive Experience for Prospective Members",
+            "link": "https://drive.google.com/file/d/1ZZoI8T0f2SK-phGGDmJS31F2cOe237xc/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Representing Your Community's Profession",
+            "link": "https://drive.google.com/file/d/1Z0X1l6MmGJfENkz5TVMlHE2LsAeuyxVY/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Strengthening Your Membership - Creating Your Membership Plan",
+            "link": "https://drive.google.com/file/d/1li-EWIJSTMG7SAuyDdZDEOo-GSgSs44t/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Understanding Why Members Leave",
+            "link": "https://drive.google.com/file/d/1HmUkIy6qRtsK60cszem8clmaXtodr4SU/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Membership Assessment Tools",
+            "link": "https://drive.google.com/file/d/1UamFD4CQKhcxxobrgSMhoKodCsTgkFkg/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Introducing New Members to Rotary - An Orientation Guide",
+            "link": "https://drive.google.com/file/d/1hakESp7SnnfFYz2tVjX4cSInGT5n2byo/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Improving Your Membership Retention",
+            "link": "https://drive.google.com/file/d/1x2NLvPMozFekItmk9X-I2P59G4HLyWfh/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Finding New Club Members",
+            "link": "https://drive.google.com/file/d/1HBAkuWwPpr3S73d9pnI79Tw3qAf53j-q/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "Enhancing the Club Experience",
+            "link": "https://drive.google.com/file/d/10QbI9s2512OLrf0C3OT9H5Y8KDT-VnjC/view?usp=sharing",
+            "category_id": 9
+        },
+        {
+            "name": "New Member Induction Guideline",
+            "link": "#",
+            "category_id": 9
         },
         {
             "name": "Turnover Script & Program",
-            "category_id": 10,
-            "link": "https://docs.google.com/document/d/1DWqG4KU_m-uArJvForyR6kCDyozAlguZ/edit"
+            "link": "https://docs.google.com/document/d/1DWqG4KU_m-uArJvForyR6kCDyozAlguZ/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 10
+        },
+        {
+            "name": "Charging of New Members",
+            "link": "#",
+            "category_id": 10
+        },
+        {
+            "name": "Charging of President",
+            "link": "#",
+            "category_id": 10
+        },
+        {
+            "name": "Oath of Membership and Oath of Office",
+            "link": "https://docs.google.com/document/d/1z76cKrgusH-Fw8cG8_lDdhslA00reoT9/edit?usp=sharing&ouid=108670525489028068599&rtpof=true&sd=true",
+            "category_id": 10
         },
         {
             "name": "Twin Club Agreement Template",
-            "category_id": 11,
-            "link": "#"
+            "link": "#",
+            "category_id": 11
+        },
+        {
+            "name": "Sample Club Resolution for Twin Club Signing",
+            "link": "#",
+            "category_id": 11
+        },
+        {
+            "name": "Sample Letter of Intent",
+            "link": "#",
+            "category_id": 11
         },
         {
             "name": "Understanding International Service",
-            "category_id": 12,
-            "link": "#"
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Finance Presentation",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Roles of A Club Secretary",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Community Service",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Professional Dev't Service",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Polio Plus",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Public Image",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "The Rotary Foundation",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Treasurer PPT",
+            "link": "#",
+            "category_id": 12
+        },
+        {
+            "name": "Club Service",
+            "link": "#",
+            "category_id": 12
         },
         {
             "name": "GEAR Awards Guidelines",
-            "category_id": 13,
-            "link": "#"
+            "link": "#",
+            "category_id": 13
+        },
+        {
+            "name": "District Awards Guidelines",
+            "link": "#",
+            "category_id": 13
+        },
+        {
+            "name": "DRR's Challenge Guidelines",
+            "link": "https://drive.google.com/file/d/1iWRsphTA6XkW2igQC2wT-pEtPPEsKIho/view?usp=sharing",
+            "category_id": 13
         }
     ]
 }
